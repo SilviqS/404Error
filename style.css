@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: #2067B2;
+}
+.container{
+    top: 20%;
+    left: 0;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    width: 100%;
+
+}
+.main_title{
+    font-size: 150px;
+    color: white;
+    font-family: 'Silkscreen', cursive;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.emoji{
+    font-size: 100px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+.text{
+    color: white;
+    margin: 0%;
+}
+.p_footer{
+    bottom: 0;
+    position: absolute;
+    color: white;
+    left: 45%;
+}
